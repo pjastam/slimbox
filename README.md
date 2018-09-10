@@ -3,6 +3,8 @@ Slimbox 2
 
 Slimbox 2 is a lightweight visual clone of the popular [Lightbox 2](http://lokeshdhakar.com/projects/lightbox2/) script by Lokesh Dhakar, written using the [jQuery](http://jquery.com) javascript library. It was designed to be very small, efficient, standards-friendly, fully customizable, more convenient and 100% compatible with the original Lightbox 2.
 
+We applied the V1.69 version of the Slimbox code for a slideshow of my PhD defense photos (see the README.txt file). These photos should be put in the images subdirectory (which is empty at GitHub).
+
 Demo
 ----
 
